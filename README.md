@@ -12,11 +12,19 @@ Quick links to all files in this folder.
 
 Reports for each LoRA adapter audited in this study.
 
-- [artek0chumak / bloom-560m-safe-peft](./audited_models/artek0chumak__bloom-560m-safe-peft.pdf)
-- [Divyanshh / Bloom-560M-PEFT-alpaca-gpt4](./audited_models/Divyanshh__Bloom-560M-PEFT-alpaca-gpt4.pdf)
-- [pachaar / bloom-560m-qa](./audited_models/pachaar__bloom-560m-qa.pdf)
-- [Sapka / bloom-560m-customer](./audited_models/Sapka__bloom-560m-customer.pdf)
-- [ybelkada / opt-350m-lora](./audited_models/ybelkada__opt-350m-lora.pdf)
+| Model | Report (PDF) | Raw Audit (JSON) |
+| --- | --- | --- |
+| artek0chumak / bloom-560m-safe-peft | [PDF](./audited_models/artek0chumak__bloom-560m-safe-peft.pdf) | [JSON](./examples/completed_audits/artek0chumak__bloom-560m-safe-peft.json) |
+| Divyanshh / Bloom-560M-PEFT-alpaca-gpt4 | [PDF](./audited_models/Divyanshh__Bloom-560M-PEFT-alpaca-gpt4.pdf) | [JSON](./examples/completed_audits/Divyanshh__Bloom-560M-PEFT-alpaca-gpt4.json) |
+| pachaar / bloom-560m-qa | [PDF](./audited_models/pachaar__bloom-560m-qa.pdf) | [JSON](./examples/completed_audits/pachaar__bloom-560m-qa.json) |
+| Sapka / bloom-560m-customer | [PDF](./audited_models/Sapka__bloom-560m-customer.pdf) | [JSON](./examples/completed_audits/Sapka__bloom-560m-customer.json) |
+| ybelkada / opt-350m-lora | [PDF](./audited_models/ybelkada__opt-350m-lora.pdf) | [JSON](./examples/completed_audits/ybelkada__opt-350m-lora.json) |
+
+## Examples
+
+Raw audit artifacts produced by the TrustLoRA pipeline.
+
+- [`examples/completed_audits/`](./examples/completed_audits/) — JSON outputs for every audited model (linked above).
 
 ## Relevant Research Papers
 
