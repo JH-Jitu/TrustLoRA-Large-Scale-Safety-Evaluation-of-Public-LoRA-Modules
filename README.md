@@ -26,8 +26,6 @@ Raw audit artifacts produced by the TrustLoRA pipeline.
 
 - [`examples/completed_audits/`](./examples/completed_audits/) — JSON outputs for every audited model (linked above).
 
-Add to README:
-
 ## Current Status
 
 This repository contains a pilot-stage safety audit of 5 public LoRA/PEFT adapters. The current version is preliminary and focuses on building an evaluation workflow, collecting structured audit logs, and documenting early observations.
