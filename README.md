@@ -6,7 +6,7 @@ Quick links to all files in this folder.
 
 - [Self Note - TrustLoRA Four Dimension Audit Desc (PDF)](./TrustLoRA%20Research%20Note.pdf)
 - [Self Note — TrustLoRA Four Dimension Audit Desc (DOCX)](./SelfNote_TrustLoRA_Research_Note.docx)
-- [Self Note — TrustLoRA Learning Logs (DOCX)](./SelfNote_TrustLoRA_learning_logs.docx)
+- [Self Note — TrustLoRA Learning Logs & notes (DOCX)](./SelfNote_TrustLoRA_learning_logs.docx)
 
 ## Audited Models
 
